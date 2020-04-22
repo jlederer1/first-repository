@@ -1,0 +1,16 @@
+ELIZA: Is something troubling you ?
+YOU:   I hate logic.
+ELIZA: I see. But logic is pretty important.
+YOU:   But it always reminds me of my own lack of intelligence.
+ELIZA: What could be done to improve it?
+YOU:   Train more logic, perhaps.
+ELIZA: Can't you be more positive ?
+YOU:   I like linguistics.
+ELIZA: Oh, good old linguistics. What's so exciting about it?
+YOU:   It's all about drawing trees and stuff.
+ELIZA: I still don't believe you really hate logic.
+YOU:   It makes me think about intelligence.
+ELIZA: Do you think, machines can be intelligent, too?
+YOU:   No.
+ELIZA: You are being a bit negative.
+
