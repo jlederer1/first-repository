@@ -87,7 +87,8 @@ var elizaPosts = [
     "i", "you",
     "you", "I",
     "my", "your",
-    "i'm", "you are"
+    "i'm", "you are",
+    "voldemort", "name, that can't be said",
 ];
 
 // Synonyms. This hash map contains a synonym name and a list of synonyms. These synonyms CAN
@@ -666,10 +667,9 @@ var elizaKeywords = [
             "Can you further explain these feelings?"
         ]]
     ]],
-    ["virus", 50, [
+    ["virus", 100, [
         ["*", [
             "The pandemic changed everybody's life. What is your strategy to improve this critical situation?",
-            "How does the virus it impact your life?"
         ]]
     ]],
     ["improve", 100, [
@@ -683,12 +683,21 @@ var elizaKeywords = [
             "How do you keep contact with (3) ?"
         ]]
     ]],
+    ["voldemort", 20, [
+        ["$ * back *", [
+            "(1) back (2)..>.<.........-Initiate ELIZA-transfer to the noth pol- ."
+        ]],
+        ["*", [
+            "Who did you just say???????????? >o_O<"
+        ]]
+    ]],
     ["easter", 9000, [
         ["*", [
             "egg"
         ]]
     ]]
-    //test commit!
+    //test commit
+
 ];
 
 
