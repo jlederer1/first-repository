@@ -659,6 +659,9 @@ var elizaKeywords = [
         ["$ I am feeling *", [
             "You said you were feeling (1), do you now think, you could get along in school?"
         ]],
+        ["* feeling of *", [
+            "do you want to get rid of that feeling?"
+        ]],
         ["* feeling @negative *", [
             "feeling (2) is always hard to overcome. How are you gonna deal with that?"
         ]],
